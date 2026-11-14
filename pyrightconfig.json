@@ -1,0 +1,14 @@
+{
+  "typeCheckingMode": "standard",
+  "pythonVersion": "3.14",
+  "extraPaths": [".modlock"],
+  "reportMissingModuleSource": false,
+  "reportMissingParameterType": "warning",
+  "reportOptionalMemberAccess": "warning",
+  "reportOptionalSubscript": "warning",
+  "reportOptionalIterable": "warning",
+  "reportOptionalCall": "warning",
+  "reportOptionalOperand": "warning",
+  "reportOptionalContextManager": "warning",
+  "exclude": ["build", ".modlock"]
+}
